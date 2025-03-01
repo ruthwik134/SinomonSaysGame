@@ -24,7 +24,7 @@ function userflash(btn){
     btn.classList.add("userflash");
     setTimeout(function(){
         btn.classList.remove("userflash");
-    },500);
+    },1000);
 
 }
 function leveled(){
