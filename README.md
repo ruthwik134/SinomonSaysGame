@@ -32,5 +32,5 @@ This is a simple **Simon Says** game implemented in JavaScript. The game generat
 ## Deployment
 This game is deployed on **GitHub Pages**. You can play it at:
 
-https://ruthwik134.github.io/webproject2/
+https://ruthwik134.github.io/SinomonSaysGame/
 
